@@ -1,5 +1,7 @@
 ## Demo Echo API
 
+Docker image: `wilsonnetodev/demo-echo-api`
+
 Just a simple echo API
 
 Hit the `GET /` and see the belwo response:
