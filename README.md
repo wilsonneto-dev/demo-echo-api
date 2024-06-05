@@ -16,3 +16,11 @@ Hit the `GET /` and see the belwo response:
 ```
 
 ![image](https://github.com/wilsonneto-dev/Demo_EchoApi/assets/20674439/ffae0b00-c41b-4062-a8d6-074098a0d021)
+
+### Health Checks
+
+Also, there are health checks in place:
+
+- health/live
+- health/ready
+- health/startup
