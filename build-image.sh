@@ -1,4 +1,4 @@
-version=v1
+version=v4
 
 docker build . -t wilsonnetodev/demo-echo-api:$version
 docker tag wilsonnetodev/demo-echo-api:$version wilsonnetodev/demo-echo-api:latest
